@@ -25,7 +25,8 @@ This commands includes
 <BR>
 • Other IP Commands e.g. show ip route etc.
 <BR>
-## program
+
+
 <img width="649" height="330" alt="image" src="https://github.com/user-attachments/assets/cecbab22-666c-4ccb-acc4-d2f986cc75c3" />
 <img width="657" height="245" alt="image" src="https://github.com/user-attachments/assets/c716f77f-9322-45ce-8ee9-503b1f960fd1" />
 
